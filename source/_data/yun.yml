@@ -65,7 +65,7 @@ footer:
     icp: 苏ICP备xxxxxxxx号
 
   live_time:
-    enable: true
+    enable: false
     prefix: 本博客已萌萌地运行
     suffix: (●'◡'●)
     start_time: "2021-01-1T00:00:00"
