@@ -1,0 +1,81 @@
+avatar:
+  url: /images/judy.jpg # 你的头像图片地址
+  rounded: true
+  opacity: 1
+  mickey_mouse: true
+  status:
+    enable: true
+    emoji: 😊
+    message: =.=
+
+
+title: 西风的话
+subtitle: ''
+description: ''
+keywords:
+author: Zoe
+language: en
+timezone: ''
+
+# UI
+banner:
+  enable: true
+  title: 西风的话
+  src: /js/ui/banner.js
+  border: true
+  cloud:
+    enable: true
+    color: "white"
+  go_down:
+    enable: true
+    icon: icon-arrow-down-s-line
+
+# Social Links.
+# social:
+#   - name: RSS
+#     # set rss in your root config
+#     # https://github.com/hexojs/hexo-generator-feed
+#     link: /atom.xml # config.feed.path
+#     icon: icon-rss-line
+#     color: orange
+
+
+
+# Footer Settings
+# ---------------
+footer:
+  since: 2021
+  # Icon between year and copyright info.
+  icon:
+    # `heart` is recommended with animation in red (#ff0000).
+    name: icon-cloud-line
+    # If you want to animate the icon, set it to true.
+    animated: true
+    # Change the color of icon, using Hex Code.
+    color: "#0078E7"
+
+  powered:
+    # Hexo link (Powered by Hexo).
+    enable: true
+
+  # Beian icp information for Chinese users. In China, every legal website should have a beian icp in website footer.
+  # http://www.beian.miit.gov.cn
+  beian:
+    enable: false
+    icp: 苏ICP备xxxxxxxx号
+
+  live_time:
+    enable: true
+    prefix: 本博客已萌萌哒地运行
+    suffix: (●'◡'●)
+    start_time: "2021-01-1T00:00:00"
+
+
+# special
+mourn:
+  enable: false
+  days:
+    - "4-4"
+    - "9-18"
+    - "2-6"
+    - "5-12"
