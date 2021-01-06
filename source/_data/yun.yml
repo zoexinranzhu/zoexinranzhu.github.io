@@ -15,7 +15,7 @@ description: ''
 keywords:
 author: Zoe
 language: en
-timezone: ''
+timezone: US/New York
 
 # UI
 banner:
@@ -65,10 +65,10 @@ footer:
     icp: 苏ICP备xxxxxxxx号
 
   live_time:
-    enable: false
+    enable: true
     prefix: 本博客已萌萌地运行
     suffix: (●'◡'●)
-    start_time: "2021-01-1T00:00:00"
+    start_time: "2021-01-05T23:00:00"
 
 
 # special
