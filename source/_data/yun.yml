@@ -4,7 +4,7 @@ avatar:
   opacity: 1
   mickey_mouse: true
   status:
-    enable: true
+    enable: false
     emoji: 😊
     message: =.=
 
@@ -69,6 +69,25 @@ footer:
     prefix: 本博客已萌萌地运行
     suffix: (●'◡'●)
     start_time: "2021-01-05T23:00:00"
+
+# You can set color for every tag or category.
+tags:
+  Machine learning: "#4fc08d"
+  Bayesian optimization: "#0E83CD"
+  misc: "#5298d1"
+  Leetcode: "#026E00"
+  Git: "#F14E32"
+  hyperparameter tuning: "#61dafb"
+  Python: "#3776ab"
+  Gaussian processes: "#8892BF"
+  music: "#F4DF4F"
+  placeholder2: "#317AC6"
+  placeholder3: "#F4645F"
+  placeholder4: "#0066B8"
+
+categories:
+  Notes: dimgray
+  Thoughts: "#0066B8"
 
 
 # special
